@@ -1,0 +1,75 @@
+.logotipo{
+			width: 50px;
+			height: auto;
+		}
+
+
+#social{
+	text-align: center;
+	background-color: #FFFAFA;
+	padding: 50px 0;
+
+}
+
+.titulo-section{
+	font-size: 32pt;
+	font-weight: lighter;
+	text-align: center;
+}
+
+#social a{
+	color: #00BFFF
+	font-size: 18pt;
+	padding-right: 64px;
+}
+
+#social a :hover{
+	color: #0020C2;	
+	transition: 1s;
+}
+
+#institucional {
+	text-align: center;
+	padding: 32px;
+	background-color: #FFFAFA;
+	font-weight: lighter;
+}
+
+.esq{
+	background-color: #FFFAFA;
+}
+
+.dir{
+	background-color: #FFFAFA;
+}
+
+#Torres{
+	background-color: #FFFAFA;
+	text-align: center;
+	padding: 32px 0;
+	color: #2f3542;
+	font-weight: lighter;
+}
+
+.tenis{
+		width: 330px;
+		height: auto;
+}
+
+#mapas{
+	text-align: center;
+	padding: 32px 0;
+	background-color: #FFFAFA;
+}
+
+#formulario {
+	background-color: #FFFAFA;
+	font-weight: lighter;
+	
+}
+
+.titulo-form{
+	font-size: 32pt;
+	font-weight: lighter;
+	text-align: center;
+}
